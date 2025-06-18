@@ -14,7 +14,7 @@ public class Main {
 
             // Agregar arcos con pesos 
             //Nota, el grafo y la matriz mostrados en el libro no coinciden entre si, en la matriz mostrada hay un arco de valor 4, pero en el grafo no existe
-            grafo.nuevoArco("Alicante", "Cartagena", 3);
+            grafo.nuevoArco("Alicante", "Cartagena", 5);
             grafo.nuevoArco("Alicante", "Murcia", 5);
             grafo.nuevoArco("Barcelona", "Cartagena", 3);
             grafo.nuevoArco("Barcelona", "Murcia", 6);
